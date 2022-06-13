@@ -1,0 +1,5 @@
+W tym pliku zostało jawnie podane hasło, należy je usunąć, pozostawiająć resztę pliku bez zmian.
+
+password=
+
+
